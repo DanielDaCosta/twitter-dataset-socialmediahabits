@@ -41,3 +41,12 @@ stream-5-tweets-previous-likes: 0.01790369049252298
 stream-6-tweets-previous-likes: 0.13942052471291666
 
 # Analysis
+![total_n_posts](twitter-dataset-socialmediahabits/images/total_n_posts.png)
+![total_n_posts_distribution](twitter-dataset-socialmediahabits/images/total_n_posts_distribution.png)
+![avg_tweet_time](twitter-dataset-socialmediahabits/images/avg_tweet_time.png)
+![avg_tweet_time_distribution](twitter-dataset-socialmediahabits/images/avg_tweet_time_distribution.png)
+![avg_posts_per_week](twitter-dataset-socialmediahabits/images/avg_posts_per_week.png)
+![avg_posts_per_week_distribution](twitter-dataset-socialmediahabits/images/avg_posts_per_week_distribution.png)
+![avg_externalurls](twitter-dataset-socialmediahabits/images/avg_externalurls.png)
+![avg_externalulrs_distribution](twitter-dataset-socialmediahabits/images/avg_externalulrs_distribution.png)
+
