@@ -14,6 +14,6 @@ Last date: 2023-05-11
 
 # Analysis
 
-![tweets_per_day](images/n_tweets_per_day.png)
+![tweets_per_day](../images/n_tweets_per_day.png)
 
-![users_per_day](images/n_uses_per_day.png)
+![users_per_day](../images/n_uses_per_day.png)
