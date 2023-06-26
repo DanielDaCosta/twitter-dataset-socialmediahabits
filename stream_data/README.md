@@ -27,11 +27,17 @@ Please note that every tweet in this dataset includes the metrics it received (l
 If we filter the data by *'current_time' >= 2023-04-05*, we can analyze the percentage of tweets that don't have the columns *_delta_until_next_tweet*:
 
 stream-0-tweets-previous-likes: 0.08003540202757067
+
 stream-1-tweets-previous-likes: 0.022972191557588183
+
 stream-2-tweets-previous-likes: 0.06788511749347259
+
 stream-3-tweets-previous-likes: 0.0588464779501264
+
 stream-4-tweets-previous-likes: 0.04606708656803867
+
 stream-5-tweets-previous-likes: 0.01790369049252298
+
 stream-6-tweets-previous-likes: 0.13942052471291666
 
 # Analysis
